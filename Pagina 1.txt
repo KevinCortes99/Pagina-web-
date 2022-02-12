@@ -7,3 +7,13 @@ Forma
 Color
 Estilo
 Temporada
+
+Nuevo Catalogo de la pagina
+1.
+Talla
+Forma
+Color
+Estilo
+Temporada
+Costura
+Clientes premiun y plus
