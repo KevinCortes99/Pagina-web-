@@ -1,3 +1,10 @@
 Inicio de mi proyecto 
 
 Pagina web para catalogo de empresas de moda.
+
+Lista de prendas F y M
+Tallas de prendas
+Color de prendas
+Forma de prendas
+Precio de prendas
+Temporada de la prenda
