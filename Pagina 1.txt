@@ -1,1 +1,9 @@
 Inicio de la pagina web 
+
+Catalogo de la pagina 
+1.
+Talla
+Forma
+Color
+Estilo
+Temporada
